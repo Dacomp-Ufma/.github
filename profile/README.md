@@ -109,7 +109,7 @@ Explore our repositories and find what you need to supercharge your studies or p
 
 - **Pygame course**: Ideal for programming beginners, teaching how to build games with pygame! 🐍
 - **C course**: Learn C language, vital for Understanding Pointers and Structs. 🌐
-- 
+  
 👉 **Check out all our repositories on our GitHub organization!**
 
 ---
