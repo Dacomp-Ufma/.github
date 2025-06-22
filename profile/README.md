@@ -27,11 +27,8 @@ O DACOMP UFMA é o coração da comunidade de Ciência da Computação da Univer
 
 Explore nossos repositórios e encontre o que você precisa para turbinar seus estudos ou projetos:
 
-- **Curso de Python Básico**: Ideal para iniciantes na programação! 🐍
-- **Desenvolvimento Web**: Aprenda HTML, CSS, JavaScript e frameworks modernos. 🌐
-- **Machine Learning**: Mergulhe no mundo da inteligência artificial. 🤖
-- **Hackathons**: Soluções criativas desenvolvidas em eventos da comunidade. ⚡
-
+- **Curso de Pygame**: Ideal para iniciantes na programação, ensinando como construir jogos em código python! 🐍
+- **Curso de C**: Aprenda a linguagem C, fundamental para entender Ponteiros e structs. 🌐
 👉 **Confira todos os repositórios na nossa organização no GitHub!**
 
 ---
