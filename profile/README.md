@@ -29,7 +29,7 @@ Explore nossos repositórios e encontre o que você precisa para turbinar seus e
 
 - **Curso de Pygame**: Ideal para iniciantes na programação, ensinando como construir jogos em código python! 🐍
 - **Curso de C**: Aprenda a linguagem C, fundamental para entender Ponteiros e structs. 🌐
-👉 **Confira todos os repositórios na nossa organização no GitHub!**
+- 👉 **Confira todos os repositórios na nossa organização no GitHub!**
 
 ---
 
