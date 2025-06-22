@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Diretório Acadêmico de Ciência da Computação da UFMA**! Somos uma comunidade apaixonada por tecnologia, inovação e aprendizado colaborativo. Nossa missão é **empoderar estudantes e entusiastas** com materiais de qualidade, cursos práticos e projetos que transformam ideias em realidade. 🌟
 
-![Logo DACOMP UFMA](LogoDacomp.jpg)
+![Logo DACOMP UFMA](LogoDacomp.jpeg)
 
 ## 🖥️ O que é a DACOMP UFMA?
 
