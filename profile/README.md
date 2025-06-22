@@ -1,6 +1,6 @@
 # DACOMP UFMA 🚀
 
-![Logo DACOMP UFMA](LogoDacomp.jpg)
+![Logo DACOMP UFMA](LogoDacomp.jpeg)
 
 🌐 **Escolha seu idioma / Choose your language**:  
 - [Português](#português)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 Bem-vindo ao **Diretório Acadêmico de Ciência da Computação da UFMA**! Somos uma comunidade apaixonada por tecnologia, inovação e aprendizado colaborativo. Nossa missão é **empoderar estudantes e entusiastas** com materiais de qualidade, cursos práticos e projetos que transformam ideias em realidade. 🌟
 
@@ -80,7 +80,7 @@ Agradecemos à UFMA e à nossa comunidade por tornarem o DACOMP possível! 🙌
 
 ---
 
-## 🇬🇧 English
+## English
 
 Welcome to the **UFMA Computer Science Academic Directory (DACOMP UFMA)**! We are a community passionate about technology, innovation, and collaborative learning. Our mission is to **empower students and enthusiasts** with high-quality materials, practical courses, and projects that turn ideas into reality. 🌟
 
